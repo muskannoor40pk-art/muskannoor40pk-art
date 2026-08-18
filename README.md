@@ -9,3 +9,4 @@ Welcome to my profile! Here are my live projects:
 - 🎤 **Tech Conference Schedule:** [Live Demo](https://muskannoor40pk-art.github.io/Tech-Conference/)
 - 🛒 **Checkout Page:** [Live Demo](https://muskannoor40pk-art.github.io/Checkout-page/)
 - 🎬 **Movie Title:** [Live Demo](https://muskannoor40pk-art.github.io/Movie-Title/)
+- 🎵 **Multimedia Player:** [Live Demo](https://muskannoor40pk-art.github.io/Multimedia-Player/)
