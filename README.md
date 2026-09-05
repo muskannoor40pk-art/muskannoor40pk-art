@@ -14,3 +14,4 @@ Welcome to my profile! Here are my live projects:
 - 🌐 **Live Website Demo:** [View Cafe Menu Live](https://muskannoor40pk-art.github.io/Cafe-Menu-/)
 - 🎴 ** Business Card: ** [Live Demo](https://muskannoor40pk-art.github.io/Business-Card/)
 - 📝 ** Styles To-Do List: ** [Live Demo](https://muskannoor40pk-art.github.io/Styles-To-Do-List/)
+- 📰 **Blog Post Card:** [Live Demo](https://muskannoor40pk-art.github.io/Blog-Post-Card/)
