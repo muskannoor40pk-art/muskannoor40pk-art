@@ -9,6 +9,7 @@ Welcome to my profile! Here are my live projects:
 - 🎵 **Multimedia Player:** [Live Demo](https://muskannoor40pk-art.github.io/Multimedia-Player/)
 - ⚙️ **Game Settings Panel:** [Live Demo](https://muskannoor40pk-art.github.io/Game-Settings-Panel/)
 - 🎨 **Rothko Painting:** [Live Demo](https://muskannoor40pk-art.github.io/Rothko-Painting/)
+- 📦 **Colored Boxes:** [Live Demo](https://muskannoor40pk-art.github.io/Colored-Boxes/)
 - 📚 **Book Catalog Survey:** [Live Demo](https://muskannoor40pk-art.github.io/Survey-form/)
 - 🏢 **M.K Software Company:** [Live Demo](https://muskannoor40pk-art.github.io/my-first-website/)
 - 💳 **Donation Form:** [Live Demo](https://muskannoor40pk-art.github.io/my-first-website/donation.html)
