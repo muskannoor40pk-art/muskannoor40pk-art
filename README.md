@@ -3,6 +3,7 @@
 Welcome to my profile! Here are my live projects:
 - 🟢 **Upwork Project Catalog:** [Responsive Website Service](https://www.upwork.com/services/product/development-it-a-fully-responsive-website-built-using-html-css-and-javascript-2091441316625286844?ref=fl_profile)
 - 🌐 **Fiverr Profile / Services:** [Hire me on Fiverr](https://www.fiverr.com/s/xrdwjjX)
+- 🃏 **Playing Cards:** [Live Demo](https://muskannoor40pk-art.github.io/Playing-Cards/)
 - 🖼️ **Photo Gallery:** [Live Demo](https://muskannoor40pk-art.github.io/Photo-Gallery/)
 - 📝 **Registration Form:** [Live Demo](https://muskannoor40pk-art.github.io/Registration-Form/)
 - 🖍️ **Colored Markers:** [Live Demo](https://muskannoor40pk-art.github.io/Colored-Markers/)
