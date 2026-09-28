@@ -5,6 +5,7 @@ Welcome to my profile! Here are my live projects:
 - 🌐 **Fiverr Profile / Services:** [Hire me on Fiverr](https://www.fiverr.com/s/xrdwjjX)
 - 💼 **LinkedIn Profile:** [Connect on LinkedIn](https://www.linkedin.com/in/muskan-noor-663253439/)
 - 🌐 **My First Websites:** [Live Demo](https://muskannoor40pk-art.github.io/My-first-websites/)
+- ♿ **Accessibility Quiz:** [Live Demo](https://muskannoor40pk-art.github.io/Accessibility-Quiz/)
 - 🥗 **Nutrition Label:** [Live Demo](https://muskannoor40pk-art.github.io/Nutrition-Label/)
 - 🃏 **Playing Cards:** [Live Demo](https://muskannoor40pk-art.github.io/Playing-Cards/)
 - 🖼️ **Photo Gallery:** [Live Demo](https://muskannoor40pk-art.github.io/Photo-Gallery/)
