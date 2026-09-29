@@ -29,6 +29,7 @@ Welcome to my profile! Here are my live projects:
 - 🏫 **Parent Teacher Conference Form:** [Live Demo](https://muskannoor40pk-art.github.io/Parent-Teacher-Conference-Form/)
 - 🌐 **Live Website Demo:** [View Cafe Menu Live](https://muskannoor40pk-art.github.io/Cafe-Menu-/)
 - 🎴 **Business Card:** [Live Demo](https://muskannoor40pk-art.github.io/Business-Card/)
+- 🐱 **fCC Cat Painting:** [Live Demo](https://muskannoor40pk-art.github.io/fCC-Cat-Painting/)
 - 📝 **Styles To-Do List:** [Live Demo](https://muskannoor40pk-art.github.io/Styles-To-Do-List/)
 - 📰 **Blog Post Card:** [Live Demo](https://muskannoor40pk-art.github.io/Blog-Post-Card/)
 - 🎨 **My Hobby:** [Live Demo](https://muskannoor40pk-art.github.io/My-Hobby/)
