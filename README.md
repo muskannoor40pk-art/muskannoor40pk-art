@@ -1,6 +1,6 @@
 # Muskan Noor (Muskan) 👋
 
-Salam! Main Muskan — front-end developer specializing in responsive HTML, CSS, and JavaScript. Yeh mera portfolio/profile README hai jahan main apne featured projects, contact links aur skills dikhata/ti hoon.
+Salam! Main Muskan — front-end developer specializing in responsive HTML, CSS, and JavaScript. Yeh mera portfolio/profile README hai jahan main apne featured projects, contact links aur skills dikhati hoon.
 
 ---
 
