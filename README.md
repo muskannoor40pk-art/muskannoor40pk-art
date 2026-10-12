@@ -1,41 +1,47 @@
-# Hi, I'm Muskan 👋
+# Muskan Noor (Muskan) 👋
 
-Welcome to my profile! Here are my live projects:
-- 🟢 **Upwork Project Catalog:** [Responsive Website Service](https://www.upwork.com/services/product/development-it-a-fully-responsive-website-built-using-html-css-and-javascript-2091441316625286844?ref=fl_profile)
-- 🌐 **Fiverr Profile / Services:** [Hire me on Fiverr](https://www.fiverr.com/s/xrdwjjX)
-- 💼 **LinkedIn Profile:** [Connect on LinkedIn](https://www.linkedin.com/in/muskan-noor-663253439/)
-- 🌐 **My First Websites:** [Live Demo](https://muskannoor40pk-art.github.io/My-first-websites/)
-- 🏢 **M.K Software Company:** [Live Demo](https://muskannoor40pk-art.github.io/my-first-website/)
-- ⚖️ **Balance Sheet:** [Live Demo](https://muskannoor40pk-art.github.io/Balance-Sheet/)
-- ♿ **Accessibility Quiz:** [Live Demo](https://muskannoor40pk-art.github.io/Accessibility-Quiz/)
-- 🎖️ **Tribute Page:** [Live Demo](https://muskannoor40pk-art.github.io/Tribute-Page/)
-- 🥗 **Nutrition Label:** [Live Demo](https://muskannoor40pk-art.github.io/Nutrition-Label/)
-- 🃏 **Playing Cards:** [Live Demo](https://muskannoor40pk-art.github.io/Playing-Cards/)
-- 🖼️ **Photo Gallery:** [Live Demo](https://muskannoor40pk-art.github.io/Photo-Gallery/)
-- 📝 **Registration Form:** [Live Demo](https://muskannoor40pk-art.github.io/Registration-Form/)
-- 🖍️ **Colored Markers:** [Live Demo](https://muskannoor40pk-art.github.io/Colored-Markers/)
-- 🎵 **Multimedia Player:** [Live Demo](https://muskannoor40pk-art.github.io/Multimedia-Player/)
-- ⚙️ **Game Settings Panel:** [Live Demo](https://muskannoor40pk-art.github.io/Game-Settings-Panel/)
-- 🎨 **Rothko Painting:** [Live Demo](https://muskannoor40pk-art.github.io/Rothko-Painting/)
-- 📦 **Colored Boxes:** [Live Demo](https://muskannoor40pk-art.github.io/Colored-Boxes/)
-- 💰 **Pricing Plans Layout Page:** [Live Demo](https://muskannoor40pk-art.github.io/Pricing-Plans-Layout-Page/)
-- 📰 **Newspaper Article:** [Live Demo](https://muskannoor40pk-art.github.io/Newspaper-Article/)
-- 📚 **Book Catalog Survey:** [Live Demo](https://muskannoor40pk-art.github.io/Survey-form/)
-- 💳 **Donation Form:** [Live Demo](https://muskannoor40pk-art.github.io/my-first-website/donation.html)
-- 📝 **Camperbot Blog:** [Live Demo](https://muskannoor40pk-art.github.io/my-blog/)
-- 🎤 **Tech Conference Schedule:** [Live Demo](https://muskannoor40pk-art.github.io/Tech-Conference/)
-- 🛒 **Checkout Page:** [Live Demo](https://muskannoor40pk-art.github.io/Checkout-page/)
-- 🎬 **Movie Title:** [Live Demo](https://muskannoor40pk-art.github.io/Movie-Title/)
-- 🌸 **Mother's Day Card:** [Live Demo](https://muskannoor40pk-art.github.io/My-Mother-Day/)
-- 🏫 **Parent Teacher Conference Form:** [Live Demo](https://muskannoor40pk-art.github.io/Parent-Teacher-Conference-Form/)
-- 🌐 **Live Website Demo:** [View Cafe Menu Live](https://muskannoor40pk-art.github.io/Cafe-Menu-/)
-- 🎴 **Business Card:** [Live Demo](https://muskannoor40pk-art.github.io/Business-Card/)
-- 🐱 **fCC Cat Painting:** [Live Demo](https://muskannoor40pk-art.github.io/fCC-Cat-Painting/)
-- 📝 **Styles To-Do List:** [Live Demo](https://muskannoor40pk-art.github.io/Styles-To-Do-List/)
-- 📰 **Blog Post Card:** [Live Demo](https://muskannoor40pk-art.github.io/Blog-Post-Card/)
-- 🎨 **My Hobby:** [Live Demo](https://muskannoor40pk-art.github.io/My-Hobby/)
-- 🎟️ **Event Flyer Page:** [Live Demo](https://muskannoor40pk-art.github.io/Event-Flyer-Page/)
-- 📄 **Job Application Form:** [Live Demo](https://muskannoor40pk-art.github.io/Job-Application-Form/)
-- 💌 **Greeting Card:** [Live Demo](https://muskannoor40pk-art.github.io/Greeting-Card/)
+Salam! Main Muskan — front-end developer specializing in responsive HTML, CSS, and JavaScript. Yeh mera portfolio/profile README hai jahan main apne featured projects, contact links aur skills dikhata/ti hoon.
 
+---
 
+## About / مختصر تعارف
+- Front-end developer — Responsive design, accessibility basics, small web apps and UI components.
+- Main chhote, practical projects banata/ti hoon jo jaldi se demo ke liye khol sakein.
+
+## Skills / مہارت
+- HTML5 • CSS3 • JavaScript
+- Responsive Design • GitHub Pages
+- Basic accessibility practices
+
+## Featured projects / نمایاں پروجیکٹس
+- Accessibility Quiz — Live demo: https://muskannoor40pk-art.github.io/Accessibility-Quiz/  
+- Balance Sheet — Live demo: https://muskannoor40pk-art.github.io/Balance-Sheet/  
+- My First Websites (portfolio collection) — Live demo: https://muskannoor40pk-art.github.io/My-first-websites/  
+- My First Website (company demo) — Live demo: https://muskannoor40pk-art.github.io/my-first-website/  
+- Registration Form — Live demo: https://muskannoor40pk-art.github.io/Registration-Form/  
+
+(These are quick demos — click to preview.)
+
+## How to view projects locally
+1. Clone this repo or any project repo
+2. Open `index.html` in your browser
+
+Or run a quick local server:
+
+```bash
+# Python 3
+python -m http.server 8000
+# then open http://localhost:8000
+```
+
+## Contributing
+- Ye profile repo sirf lists aur links ke liye hai. Agar aap mere kisi project mein contribute karna chahte hain to us specific repo mein issue/PR bhej dijiye.
+
+## Contact / رابطہ
+- LinkedIn: https://www.linkedin.com/in/muskan-noor-663253439/
+- Fiverr: https://www.fiverr.com/s/xrdwjjX
+- Upwork service page: https://www.upwork.com/services/product/development-it-a-fully-responsive-website-built-using-html-css-and-javascript-209144131662528
+
+---
+
+Agar aap chahen to main yeh file aur zyada polish kar doon (banner image, badges, pinned repo suggestions). Agla step — main ab `my-first-website` repo ka README update karoon?
