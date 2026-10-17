@@ -34,9 +34,7 @@ Salam! Main Muskan — front-end developer specializing in responsive HTML, CSS,
 - Balance Sheet — https://muskannoor40pk-art.github.io/Balance-Sheet/
 - Blog Post Card — https://muskannoor40pk-art.github.io/Blog-Post-Card/
 - Business Card — https://muskannoor40pk-art.github.io/Business-Card/
-- Cafe Menu — https://muskannoor40pk-art.github.io/Cafe-Menu/
 - Cafe Menu (alternate) — https://muskannoor40pk-art.github.io/Cafe-Menu-/
-- Cafe Menu Page — https://muskannoor40pk-art.github.io/Cafe-Menu-Page/
 - Checkout Page — https://muskannoor40pk-art.github.io/Checkout-page/
 - Colored Boxes — https://muskannoor40pk-art.github.io/Colored-Boxes/
 - Colored Markers — https://muskannoor40pk-art.github.io/Colored-Markers/
