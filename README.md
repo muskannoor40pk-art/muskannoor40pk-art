@@ -1,12 +1,12 @@
 # Muskan Noor (Muskan) 👋
 
-Salam! Main Muskan — front-end developer specializing in responsive HTML, CSS, and JavaScript. Yeh mera portfolio/profile README hai jahan main apne featured projects, live demos, contact links aur skills dikhata/ti hoon.
+Salam! Main Muskan — front-end developer specializing in responsive HTML, CSS, and JavaScript. Yeh mera portfolio/profile README hai jahan main apne featured projects, live demos, contact links aur skills dikhati hoon.
 
 ---
 
 ## About / مختصر تعارف
 - Front-end developer — Responsive design, accessibility basics, small web apps and UI components.
-- Main chhote, practical projects banata/ti hoon jo jaldi se demo ke liye khol sakein.
+- Main chhote, practical projects banati hoon jo jaldi se demo ke liye khol sakein.
 - I build small static web experiences, UI components, and mini webpages to practice front-end skills and improve accessibility.
 
 ## Skills / مہارت
@@ -90,9 +90,3 @@ python -m http.server 8000
 - Upwork service page: [https://www.upwork.com/services/product/development-it-a-fully-responsive-website-built-using-html-css-and-javascript-209144131662528](https://www.upwork.com/freelancers/~01d2890db587ed3b5e)
 
 ---
-
-Agar aap chahen to main iske baad in live projects ko aur bhi professional banane ke liye:
-- top 6 repos ko pinned profile style mein arrange karna
-- repositories ko category wise group karna
-- GitHub Pages links ke sath screenshots add karna
-- ek final portfolio README design banaana
