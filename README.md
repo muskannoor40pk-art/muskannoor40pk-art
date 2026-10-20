@@ -18,7 +18,8 @@ Salam! Main Muskan — front-end developer specializing in responsive HTML, CSS,
 ## Featured Projects / نمایاں پروجیکٹس
 
 ### Most important live demos
-- Book Inventory - Live demo: https://muskannoor40pk-art.github.io/Book-Inventory/
+-Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
+- Book Inventory — Live demo: https://muskannoor40pk-art.github.io/Book-Inventory/
 - Accessibility Quiz — Live demo: https://muskannoor40pk-art.github.io/Accessibility-Quiz/
 - Balance Sheet — Live demo: https://muskannoor40pk-art.github.io/Balance-Sheet/
 - My First Websites — Live demo: https://muskannoor40pk-art.github.io/My-first-websites/
