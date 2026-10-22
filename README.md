@@ -14,6 +14,8 @@ Salam! Main Muskan — front-end developer specializing in responsive HTML, CSS,
 - Responsive Design • GitHub Pages
 - Basic accessibility practices
 - UI layout and component styling
+### **Automated Multi-Language Projects**
+I have set up an automated workflow using n8n that automatically generates and deploys multi-language currency converter repositories (supporting languages like Turkish and Chinese) twice a day—morning and evening. This project combines my front-end development skills with workflow automation to build scalable tech solutions.
 
 ## Featured Projects / نمایاں پروجیکٹس
 
