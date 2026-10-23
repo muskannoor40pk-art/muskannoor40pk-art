@@ -22,7 +22,7 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Turkish Currency Converter (Auto-Generated)](https://muskannoor40pk-art.github.io/turkish-currency-converter-20261022-1058/)
 * [Personal Accounting Book (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-expense-tracker-20261022-1206/)
 * [Personal Accounting Assitant (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-expense-tracker-20261022-1221/)
-* [Japanese Quiz App (AAuto-Generated)](https://muskannoor40pk-art.github.io/japanese-quiz-app-20261023-0900/)
+* [Japanese Quiz App (Auto-Generated)](https://muskannoor40pk-art.github.io/japanese-quiz-app-20261023-0900/)
 
 ### Most important live demos
 -Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
