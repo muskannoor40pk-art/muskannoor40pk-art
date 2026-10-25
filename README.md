@@ -24,7 +24,8 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Chinese Personal Accounting Assitant (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-expense-tracker-20261022-1221/)
 * [Japanese Quiz App (Auto-Generated)](https://muskannoor40pk-art.github.io/japanese-quiz-app-20261023-0900/)
 * [Habit Tracker German (Auto-Generated)](https://muskannoor40pk-art.github.io/german-habit-tracker-20261024-0900/)
-* 
+* [Recipe Gallery - Spanish (Auto-Generated)](https://muskannoor40pk-art.github.io/spanish-recipe-gallery-20261023-1800/)
+* [Event Countdown - French (Auto-Generated)](https://muskannoor40pk-art.github.io/french-event-countdown-20261024-1800/)
 
 ### Most important live demos
 -Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
