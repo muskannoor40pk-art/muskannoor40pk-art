@@ -28,7 +28,7 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Event Countdown - French (Auto-Generated)](https://muskannoor40pk-art.github.io/french-event-countdown-20261024-1800/)
 
 ### Most important live demos
--Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
+- Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
 - Book Inventory — Live demo: https://muskannoor40pk-art.github.io/Book-Inventory/
 - Accessibility Quiz — Live demo: https://muskannoor40pk-art.github.io/Accessibility-Quiz/
 - Balance Sheet — Live demo: https://muskannoor40pk-art.github.io/Balance-Sheet/
