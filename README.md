@@ -29,6 +29,7 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Weather Widget - Arabic (Auto-Generated)](https://muskannoor40pk-art.github.io/arabic-weather-widget-20261025-0900/)
 * [Portfolio Landing Page - Turkish (Auto-Generated)](https://muskannoor40pk-art.github.io/turkish-portfolio-landing-page-20261025-1800/)
 * [Interactive Calculator - Chinese (Simplified) (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-interactive-calculator-20261026-0900/)
+* [Task Manager Dashboard - Japanese (Auto-Generated)](https://muskannoor40pk-art.github.io/japanese-task-manager-dashboard-20261026-1800/)
 
 ### Most important live demos
 - Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
