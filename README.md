@@ -30,6 +30,8 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Portfolio Landing Page - Turkish (Auto-Generated)](https://muskannoor40pk-art.github.io/turkish-portfolio-landing-page-20261025-1800/)
 * [Interactive Calculator - Chinese (Simplified) (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-interactive-calculator-20261026-0900/)
 * [Task Manager Dashboard - Japanese (Auto-Generated)](https://muskannoor40pk-art.github.io/japanese-task-manager-dashboard-20261026-1800/)
+* [Pomodoro Focus Timer - Spanish (Auto-Generated)](https://muskannoor40pk-art.github.io/spanish-pomodoro-focus-timer-20261027-0900/)
+* [Currency Converter - German (Auto-Generated)](https://muskannoor40pk-art.github.io/german-currency-converter-20261027-1800/)
 
 ### Most important live demos
 - Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
