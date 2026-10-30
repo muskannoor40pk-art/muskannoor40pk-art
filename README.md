@@ -20,7 +20,6 @@ I have set up an automated workflow using n8n that automatically generates and d
 ## Featured Projects / نمایاں پروجیکٹس
 ### **Automated Live Projects & Demos**
 * [Turkish Currency Converter (Auto-Generated)](https://muskannoor40pk-art.github.io/turkish-currency-converter-20261022-1058/)
-* [Chinese Personal Accounting Book Chinese (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-expense-tracker-20261022-1206/)
 * [Chinese Personal Accounting Assitant (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-expense-tracker-20261022-1800/))
 * [Japanese Quiz App (Auto-Generated)](https://muskannoor40pk-art.github.io/japanese-quiz-app-20261023-0900/)
 * [Habit Tracker German (Auto-Generated)](https://muskannoor40pk-art.github.io/german-habit-tracker-20261024-0900/)
