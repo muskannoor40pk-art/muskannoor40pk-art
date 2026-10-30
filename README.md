@@ -32,6 +32,10 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Task Manager Dashboard - Japanese (Auto-Generated)](https://muskannoor40pk-art.github.io/japanese-task-manager-dashboard-20261026-1800/)
 * [Pomodoro Focus Timer - Spanish (Auto-Generated)](https://muskannoor40pk-art.github.io/spanish-pomodoro-focus-timer-20261027-0900/)
 * [Currency Converter - German (Auto-Generated)](https://muskannoor40pk-art.github.io/german-currency-converter-20261027-1800/)
+* [Expense Tracker - French (Auto-Generated)](https://muskannoor40pk-art.github.io/french-expense-tracker-20261028-0409/)
+* [Quiz App - Arabic (Auto-Generated)](https://muskannoor40pk-art.github.io/arabic-quiz-app-20261028-1800/)
+* [Recipe Gallery - Turkish (Auto-Generated)](https://muskannoor40pk-art.github.io/turkish-recipe-gallery-20261029-0900/)
+* [Habit Tracker - Chinese (Simplified) (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-habit-tracker-20261029-1800/)
 
 ### Most important live demos
 - Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
