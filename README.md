@@ -35,6 +35,9 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Quiz App - Arabic (Auto-Generated)](https://muskannoor40pk-art.github.io/arabic-quiz-app-20261028-1800/)
 * [Recipe Gallery - Turkish (Auto-Generated)](https://muskannoor40pk-art.github.io/turkish-recipe-gallery-20261029-0900/)
 * [Habit Tracker - Chinese (Simplified) (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-habit-tracker-20261029-1800/)
+* [Event Countdown - Japanese (Auto-Generated)](https://muskannoor40pk-art.github.io/japanese-event-countdown-20261030-0900/)
+* [Weather Widget - Spanish (Auto-Generated)](https://muskannoor40pk-art.github.io/spanish-weather-widget-20261030-1800/)
+* [Portfolio Landing Page - German (Auto-Generated)](https://muskannoor40pk-art.github.io/german-portfolio-landing-page-20261031-0900/)
 
 ### Most important live demos
 - Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
