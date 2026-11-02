@@ -38,6 +38,10 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Event Countdown - Japanese (Auto-Generated)](https://muskannoor40pk-art.github.io/japanese-event-countdown-20261030-0900/)
 * [Weather Widget - Spanish (Auto-Generated)](https://muskannoor40pk-art.github.io/spanish-weather-widget-20261030-1800/)
 * [Portfolio Landing Page - German (Auto-Generated)](https://muskannoor40pk-art.github.io/german-portfolio-landing-page-20261031-0900/)
+* [Interactive Calculator - French (Auto-Generated)](https://muskannoor40pk-art.github.io/french-interactive-calculator-20261031-1800/)
+* [Task Manager Dashboard - Arabic (Auto-Generated)](https://muskannoor40pk-art.github.io/arabic-task-manager-dashboard-20261101-0900/)
+* [Pomodoro Focus Timer - Turkish (Auto-Generated)](https://muskannoor40pk-art.github.io/turkish-pomodoro-focus-timer-20261101-1800/)
+* [Currency Converter - Chinese (Simplified) (Auto-Generated)](https://muskannoor40pk-art.github.io/chinese-currency-converter-20261102-0900/)
 
 ### Most important live demos
 - Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
