@@ -45,7 +45,7 @@ I have set up an automated workflow using n8n that automatically generates and d
 * [Quiz App - Spanish (Auto-Generated)](https://muskannoor40pk-art.github.io/spanish-quiz-app-20261103-1050/)
 
 ### Most important live demos
-- Cafe Menu (alternate) — https://muskannoor40pk-art.github.io/Cafe-Menu-/
+- Cafe Menu — Live demo: https://muskannoor40pk-art.github.io/Cafe-Menu-/
 - Technical Documentation Page — Live demo: https://muskannoor40pk-art.github.io/Technical-Documentation-Page/#Introduction
 - Book Inventory — Live demo: https://muskannoor40pk-art.github.io/Book-Inventory/
 - Accessibility Quiz — Live demo: https://muskannoor40pk-art.github.io/Accessibility-Quiz/
