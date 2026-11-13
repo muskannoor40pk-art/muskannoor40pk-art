@@ -60,7 +60,6 @@ I have set up an automated workflow using n8n that automatically generates and d
 
 ### Web Development Projects live demos
 - Cafe Menu — Live demo: https://muskannoor40pk-art.github.io/Cafe-Menu-/
-- Facebook Login Page — Live demo: https://muskannoor40pk-art.github.io/Facebook-Login-Pages/
 
 ### Full live project list
 - Accessibility Quiz — https://muskannoor40pk-art.github.io/Accessibility-Quiz/
