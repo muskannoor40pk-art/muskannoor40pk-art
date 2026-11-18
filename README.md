@@ -62,6 +62,7 @@ I have set up an automated workflow using n8n that automatically generates and d
 - Cafe Menu — Live demo: https://muskannoor40pk-art.github.io/Cafe-Menu-/
 
 ### Full live project list
+- The Daily Chronicle — https://muskannoor40pk-art.github.io/Design-a-Newspaper-Layout/
 - Accessibility Quiz — https://muskannoor40pk-art.github.io/Accessibility-Quiz/
 - Balance Sheet — https://muskannoor40pk-art.github.io/Balance-Sheet/
 - Blog Post Card — https://muskannoor40pk-art.github.io/Blog-Post-Card/
